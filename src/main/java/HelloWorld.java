@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Bonjour tout le monde");
         System.out.println("Hallo Welt");
-        System.out.println("Halo świecie");
+        System.out.println("Halo świecie!");
 
     }
 }
